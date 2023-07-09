@@ -17,4 +17,10 @@ Here is the list of events to be targeted for the first 6 months:
 There is probably one more API Days event in early 2024 (API Days Dubai) and I am currently trying to find out whether it will happen and when.
 
 
-### 
+### OAI Action Items
+
+In order for this to work, the following things should be established by OAI:
+
+- A landing page for "OAI tracks" on the OAI web site which as a starting point simply can list the events that are listed above.
+- For each future event a separate page that is a CfP which talks about the OAI track in general, links to the event, and links to the submission page.
+- For each past event a separate page that is a an archive of the presentations with basic metadata such as title, abstract, authors, and whatever else can be published (full-text and video and possible additional assets).
