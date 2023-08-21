@@ -42,3 +42,14 @@ Because accreditation will take effort, there may be a nominal fee. The fee shou
 
 Accreditation should have an expiration date, accredited training providers are allowed to claim their training as issuing "OpenAPI proficiency certificates", and OAI keeps track of accredited training providers. Renewing the accreditation should be easy, but still be required to make sure that the list of accredited training providers is carefully managed.
 
+
+### OAI Certification: Issuing Certificates
+
+It's necessary to strike a balance between reasonable effort for issuing certificates and making sure that there is quality control in place.
+
+For the ""OpenAPI Proficiency" program, the foundations level could be a simple online test. It would be difficult to make sure that the test wouldn't be leaked relatively quickly, but on the other hand the foundations level could be considered a beginners level.
+
+For level above foundations it would still be necessary to make sure that issuing certificates could be done online. It may require a system similar to what online courses at universities are doing: A combination of an honour system with a platform that at least makes it a little harder to cheat.
+
+In terms of economics, testing for certificates could be treated as not being charged for, because the value is not in the testing but in the certificates. This would mean that failing students are not being charged for, which depending on success rates may or may not be a problem.
+
