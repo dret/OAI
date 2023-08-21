@@ -53,3 +53,19 @@ For level above foundations it would still be necessary to make sure that issuin
 
 In terms of economics, testing for certificates could be treated as not being charged for, because the value is not in the testing but in the certificates. This would mean that failing students are not being charged for, which depending on success rates may or may not be a problem.
 
+
+### OAI Certification: Certification Platform
+
+As mentioned above, there are existing services such as Accredible and Credly (and others) that provide platforms for certifications. Possible features of such a platform we might want to look for are:
+
+- Bulk upload of student data (all successful students of a training).
+- Bulk notification email to all students.
+- PDF version of the certificate.
+- Social features for easy sharing of the certificate via social media.
+- Verification feature so that others (such as potential employers) can verify the certificate.
+
+This mostly all looks at certification for trainings. It may also fit the needs of the implementation certification mentioned above, but that remains to be see once more details of that initiative become available.
+
+Using a commercial service and processing certification reports will take some effort. For this reason, a nominal fee should be assessed to pay for these efforts. It may be as low as $20 per certificate.
+
+It is not quite clear how this would work in terms of accounting. The fee would go to OAI which means that OAI would need to invoice everybody who is issuing certificates. This may or may not be realistic, and maybe that's something where the Linux foundation has infrastructure that could help.
