@@ -34,7 +34,7 @@ This is different for different programs. For the OpenAPI proficiency program, a
 
 - For "OpenAPI Proficiency: API Foundations", the goal is basically OpenAPI literacy, i.e. the ability to understand OpenAPI (without every single detail). The syllabus would list OpenAPI features that would need to be discussed. The syllabus might also require some minimal context around APIs, such as understanding API styles, private/partner/public scenarios, and the API lifecycle.
 
-- For "OpenAPI Proficiency: API Developer", the syllabus may include " API Foundations", adds more details/features of the OpenAPI specification, and may also add requirements for hands-on training, for example at the minimum two UI tools (something like Postman or Stoplight) and two developer tools (something like Spectral and Prism). The syllabus would make it clear that this is not intended to be a product training, but that some hands-on experience with products helps to better ease into using OpenAPI as a developer.
+- For "OpenAPI Proficiency: API Developer", the syllabus may include "API Foundations", adds more details/features of the OpenAPI specification, and may also add requirements for hands-on training, for example at the minimum two UI tools (something like Postman or Stoplight) and two developer tools (something like Spectral and Prism). The syllabus would make it clear that this is not intended to be a product training, but that some hands-on experience with products helps to better ease into using OpenAPI as a developer.
 
 How accreditation works is up for discussion. One way to go would be to require submission of a course outline and the teaching materials and also require access to the course being taught. 
 
